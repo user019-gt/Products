@@ -1,0 +1,2 @@
+This is a help file for the Products module. It provides information on how to use the module and its features.
+This is a Prtotype of the help file. The actual content will be added later. Please check back for updates.
